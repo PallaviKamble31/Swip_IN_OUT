@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Swip_IN_OUT")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Cybage Software Pvt. Ltd.")]
 [assembly: AssemblyProduct("Swip_IN_OUT")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyCopyright("Copyright © Cybage Software Pvt. Ltd. 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("25e51270-8f5d-4478-9a32-12a203ec7806")]
+[assembly: Guid("4a81e6b2-a861-430c-800b-e3d9dc511380")]
 
 // Version information for an assembly consists of the following four values:
 //
